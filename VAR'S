@@ -4,3 +4,18 @@ Variables are value that can be changed depending on certain conditions, or info
 Programs usally consists of instructions that will be given to the program and data that the program will use when It runs.
 Data nomrally consists of Constant or Fixed/Static that can not be altered In any way depending on which VAR you're using C or F(Constant and Fixed.)
 Both C & Variable's are defined as certain data types.
+
+Quote from the internet!
+Simplified VAR:
+"It's like your home has an address (House No./Flat No.) so whenever you order something online, you just have to provide your home address and the delivery executive is able to find it."
+
+Examples of an VAR:
+
+Creating or declaring a new Variable.
+data_type var_name;
+
+int marks; - ';'Ending of the line of code, this Is a must as the program will not know If you were going to end the line but forgot the semi-colon, thus creating annoying errors.
+|   |--------------------------- The name of the Variable 'Mark'.
+'Intergers'
+Will cover this
+later

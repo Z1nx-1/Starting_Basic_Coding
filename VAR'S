@@ -17,5 +17,4 @@ data_type var_name;
 int marks; - ';'Ending of the line of code, this Is a must as the program will not know If you were going to end the line but forgot the semi-colon, thus creating annoying errors.
 |   |--------------------------- The name of the Variable 'Mark'.
 'Intergers'
-Will cover this
-later
+Will cover this later.

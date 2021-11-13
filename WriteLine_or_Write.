@@ -1,0 +1,21 @@
+console.Writeline will print a message to the program for example:
+Console.WriteLine("Jack");
+"Jack" will be shown In the console window; but If you have multiple Console.WriteLine will go down instead of across each word, e.g:
+
+Console.WriteLine("Jack");
+Console.WriteLine("Jack");
+Console.WriteLine("Jack");
+
+This will show Jack
+               Jack
+               Jack
+But what If you wanted It to go across on the same line Instead of going down? The solution/technique Is Console.Write; this print words on the same line e.g:
+
+Console.Write("Jack");
+Console.Write("Jack");
+Console.Write("Jack");
+
+This will show Jack
+               Jack
+               Jack
+Or you can just write the whole sentence In one Console.WriteLine but there Is always two options!

@@ -15,7 +15,6 @@ Console.Write("Jack");
 Console.Write("Jack");
 Console.Write("Jack");
 
-This will show Jack
-               Jack
-               Jack
+This will show Jackv Jack Jack
+
 Or you can just write the whole sentence In one Console.WriteLine but there Is always two options!
